@@ -6,3 +6,7 @@
 - **Version**: Unity 2021.3 (LTS)
 - [**Download**](https://github.com/zigurous/unity-super-mario-tutorial/archive/refs/heads/main.zip)
 - [**Video Playlist**](https://youtube.com/playlist?list=PLqlFiJjSZ2x1mrMpSQgYdRm8PyWRTg6He)
+
+
+
+Carlos Daniel Valverde Mendoza Se creo distinto capitulos del juego usando assets
