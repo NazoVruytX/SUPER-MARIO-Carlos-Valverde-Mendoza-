@@ -10,3 +10,8 @@
 
 
 Carlos Daniel Valverde Mendoza Se creo distinto capitulos del juego usando assets
+
+
+Derechos de auto a: 
+adamgrahamAdam Graham
+https://github.com/adamgraham
